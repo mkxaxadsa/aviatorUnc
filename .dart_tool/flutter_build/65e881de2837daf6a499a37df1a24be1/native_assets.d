@@ -1,0 +1,1 @@
+ /Users/kilxsx/Desktop/avia_test-main/.dart_tool/flutter_build/65e881de2837daf6a499a37df1a24be1/native_assets.yaml: 
