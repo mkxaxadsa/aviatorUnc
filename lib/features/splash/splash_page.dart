@@ -1,3 +1,4 @@
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -46,9 +47,8 @@ class _SplashPageState extends State<SplashPage> {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            _Logo(),
             SizedBox(height: 23),
-            TextM('Loading', fontSize: 12),
+            CupertinoActivityIndicator(),
           ],
         ),
       ),

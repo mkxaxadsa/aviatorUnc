@@ -65,7 +65,7 @@ class SettingsPage extends StatelessWidget {
                   title: 'Terms of Use',
                   onTap: () {
                     _launchURL(
-                        'https://docs.google.com/document/d/1CP4UHywZT0-HDfsIzB_V3R27CavQbP6tF6vUi07zzBo/edit?usp=sharing');
+                        'https://docs.google.com/document/d/13_3xRXznQ-FJ-MGdJxOZ45CbF-zm7vH1Uu6l-nY2F7w/edit?usp=sharing');
                   },
                 ),
                 const SizedBox(height: 10),
@@ -73,7 +73,7 @@ class SettingsPage extends StatelessWidget {
                   title: 'Privacy Policy',
                   onTap: () {
                     _launchURL(
-                        'https://docs.google.com/document/d/1t4fb3Y0FWwhIeqlhTTx1miWth9sEq-RVMP94aybU9Z8/edit?usp=sharing');
+                        'https://docs.google.com/document/d/1JKqfLsqLeCHr8l7BiAaqj_SMSQPKfHl-Pw6ger9hqUY/edit?usp=sharing');
                   },
                 ),
                 const SizedBox(height: 30),

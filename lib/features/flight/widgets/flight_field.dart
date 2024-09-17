@@ -101,7 +101,7 @@ class _FlightFieldState extends State<FlightField> {
         onTapOutside: (event) {
           FocusManager.instance.primaryFocus?.unfocus();
           if (widget.controller.text.isNotEmpty) {
-            widget.onDone!();
+            widget.onDone?.call();
           }
         },
         onChanged: (value) {

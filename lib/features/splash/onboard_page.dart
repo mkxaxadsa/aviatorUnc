@@ -24,18 +24,12 @@ class _OnboardPageState extends State<OnboardPage> {
           child: Column(
             children: [
               const Spacer(),
-              SvgPicture.asset(
-                'assets/onboard.svg',
-                width: MediaQuery.of(context).size.width >= 300 ? 300 : null,
-                height: MediaQuery.of(context).size.width >= 300 ? 300 : null,
-              ),
-              const Spacer(),
               const TextM(
                 'Welcome to',
                 fontSize: 14,
                 color: AppColors.main,
               ),
-              const TextM('Aviatorly Flight Utility', fontSize: 22),
+              const TextM('Plane First: Manager', fontSize: 22),
               const SizedBox(height: 24),
               TextM(
                 'Keep a record of flight information, mark different places visited, get extra bonuses',

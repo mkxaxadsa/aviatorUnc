@@ -10,15 +10,15 @@
 		</data>
 		<key>AppIcon60x60@2x.png</key>
 		<data>
-		/17U9G9K9+2VaegbLNJWnqGz8cw=
+		8Y3QokYqRa6uOY2MiK7jNxj8Mfs=
 		</data>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<data>
-		sIo/HA3paYVH04NQqp0f3lTEMAk=
+		8oKipY8cNuk4CKO/dgBMTMleooI=
 		</data>
 		<key>Assets.car</key>
 		<data>
-		bqxy8avwiqRdsaBFIWOJQ8mMeAU=
+		kZbmqxfpqOy+XebChShcyMJKbjo=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		le1PbCIk9JRErMLwaN3Dfm6GRmU=
+		x3hFaOCbs1YkklYijH0SCvJdH/U=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		PVSeKqk98tRogMGcWR/pAzyAyYk=
+		/hPT0DzmejHv5kYFczr507mvF5w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<data>
-		xhqQ8tqPGHsVTPBZoGt7Vq9Upx0=
+		4lAJvrFY216DMv1LMIyPmALcnmU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		Rs9n5Y+pvMZ1VvzCJ6fAr8E0ja0=
+		VYXkYleYrjp8+Zs8YGZY/HPwMRY=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -231,14 +231,6 @@
 		<key>Frameworks/App.framework/flutter_assets/assets/silver.svg</key>
 		<data>
 		OhCy/IduYERZRu4O2VTbAqE36AM=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/splash1.svg</key>
-		<data>
-		EaP5T2FcxItIkPMkQAcXmq/eLSo=
-		</data>
-		<key>Frameworks/App.framework/flutter_assets/assets/splash2.svg</key>
-		<data>
-		5+NvqvGrfDMmYBm4gGbAaBE5dFM=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/assets/status.svg</key>
 		<data>
@@ -454,7 +446,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		XN3H2mI2J/BBZuch0cxZTM/FYQE=
+		uIY8r0VBhV7XnbJckjRns4H7Ijg=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -474,21 +466,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YyaxhswkrvgX2tCDHBP6CtLkm6T5Gd1bhH8JBfjuSbo=
+			vZY293KIHgK5z55wFzreqkLuI/v8yP7f1M8Mz1Cc97w=
 			</data>
 		</dict>
 		<key>AppIcon76x76@2x~ipad.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mw2fQY5LcVZ2SP/4S7XniBbPH6HdElgaF3obdYCVWCc=
+			kXawwsDrypxtd0G1n2Lc+t9Q1z6hC/xZuU3Tf8MSVhg=
 			</data>
 		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5EYWWYZmShodvnE3um3UZSiBznSo8UQ/wrGsAcln6k4=
+			QKKbyYOuskFYt2O4RfnA430Rz79XK1P7hHWC5SMgkUA=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -537,7 +529,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gyi0hsvSm7eQTz6SvFkTKUyeGqbbVwJdGF3ZXdfNGsM=
+			fs1lOODLsp0ub1rBxxzDYKz3STRNo2cuiRsVfeesqJk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -551,21 +543,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3X7J23FIZv4Qs6WskKyebYB3HZvI3EP+zmFR1v765l0=
+			41XZboA6+bFSN66Bl3cLsvlVqpnVNQbZy/HHDH4eu8g=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tGNVakVgv8/Yut+qWYLUpctq/phGIy99yUm26wUFjqU=
+			7/MBFS4/w8SftWbJH2hJoMIdPLsAi1se1kQWUOLqTN0=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NtM9k2bdzZxiJHIGHAi1rArIjqE6aRJukIMY7bSyb3Y=
+			ACvuJyOD1XMaZnfXcoJ0xBRl6F1ee/x7mGOGtGFfoYo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -860,20 +852,6 @@
 			<key>hash2</key>
 			<data>
 			rzQKL/fObNXoLEYmive3ITwXUBR4OMFw5iEg+9OXPI4=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/splash1.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OKQsk72gNmFPRC6RzdeqRW1ELoPU+Cr3Eu/79RmmCss=
-			</data>
-		</dict>
-		<key>Frameworks/App.framework/flutter_assets/assets/splash2.svg</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			OOdExR1LUKIoiDqRzTkTRLxAo1vWB1x0okl99gmBx7I=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/assets/status.svg</key>
